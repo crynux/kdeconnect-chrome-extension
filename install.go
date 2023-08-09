@@ -10,7 +10,7 @@ import (
 	"runtime"
 
 	"github.com/kardianos/osext"
-	"github.com/paulrademacher/climenu"
+	"github.com/crynux/climenu"
 )
 
 const (

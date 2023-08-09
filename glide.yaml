@@ -1,8 +1,7 @@
-package: github.com/pdf/kdeconnect-chrome-extension
+package: github.com/crynux/kdeconnect-chrome-extension
 import:
-- package: github.com/godbus/dbus
-  version: ^5.0.3
+- package: github.com/godbus/dbus/v5
   subpackages:
   - introspect
-- package: github.com/paulrademacher/climenu
+- package: github.com/crynux/climenu
 - package: github.com/kardianos/osext
